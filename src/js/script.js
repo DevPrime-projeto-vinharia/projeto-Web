@@ -94,3 +94,6 @@ if (media >= 6)
     console.log(`Parabéns, você foi aprovado :) com media ${media}`)
 else
     console.log(`Infelizmente você foi Reprovado :( com media ${media}`)
+
+
+
