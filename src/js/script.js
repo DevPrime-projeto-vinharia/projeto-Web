@@ -26,4 +26,39 @@ let valorExemplo3 = 10;
     if (valorExemplo3 >= 10)
         console.log(`valor igual a ${valorExemplo3}, exemplo de >=`);
     else 
-        onsole.log (`valor não é igual a ${valorExemplo3}`);
+        console.log (`valor não é igual a ${valorExemplo3}`);
+
+
+// EX 3
+
+let peso = 200;
+let altura = 1.70;
+
+let imc = peso / (altura * altura);
+
+console.log(`O seu imc é: ${imc}?`);
+
+switch (true) {
+    case (imc < 18.5):
+        console.log("Abaixo do peso")
+        break;
+
+    case (imc > 24.9):
+        console.log("Acima do peso")
+        break;
+    
+    case (imc >= 18.5 && imc <= 24.9):
+        console.log("Peso ideal")
+        break;
+    }
+
+
+
+
+// EX 4
+
+var valor;
+
+for(valor = 0; valor < 51; valor++){
+    console.log(`o valor é: ${valor}`);
+}
