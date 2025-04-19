@@ -1,8 +1,7 @@
 // Exercicio 01
-<<<<<<< HEAD
-=======
+
 console.log("EXERCICIO 1:")
->>>>>>> main
+
 
 let varivelIndefinida;
     console.log (varivelIndefinida);
@@ -11,10 +10,10 @@ let variavelDefinida = "variável definida";
     console.log (variavelDefinida);
 
 // Exercicio 2
-<<<<<<< HEAD
-=======
+
+
 console.log("EXERCICIO 2:")
->>>>>>> main
+
 
 // Os operadores !=, == e >= significam respectivamente: Se não igual a, igual a, e maior ou igual a.
 
@@ -35,15 +34,15 @@ let valorExemplo3 = 10;
         console.log(`valor igual a ${valorExemplo3}, exemplo de >=`);
     else 
         console.log (`valor não é igual a ${valorExemplo3}`);
-<<<<<<< HEAD
+
 
 
 // EX 3
-=======
+
    
 // Exercicio 3
 console.log("EXERCICIO 3:")
->>>>>>> main
+
 
 let peso = 200;
 let altura = 1.70;
@@ -66,24 +65,24 @@ switch (true) {
         break;
     }
 
-<<<<<<< HEAD
+
 
 
 
 // EX 4
-=======
-// Exercicio 4
+
+
 console.log("EXERCICIO 4:")
->>>>>>> main
+
 
 var valor;
 
 for(valor = 0; valor < 51; valor++){
     console.log(`o valor é: ${valor}`);
-<<<<<<< HEAD
+
 }
-=======
-}
+
+
 
 // Exercicio 5
 console.log("EXERCICIO 5:")
@@ -119,4 +118,4 @@ else
 
 
 
->>>>>>> main
+
